@@ -1,0 +1,154 @@
+Assignment: Survey Report on Types of Blockchains and Their Real-Time Use Cases
+
+1. Aim
+To study different types of blockchains, their real-time applications and understand the use of MetaMask for blockchain transactions.
+
+2. Objective
+- To understand blockchain technology.
+- To study different types of blockchains.
+- To explore real-time applications of blockchain.
+- To understand MetaMask and its features.
+- To learn how to create a digital wallet and perform blockchain transactions.
+
+3. Introduction to Blockchain
+Blockchain is a decentralized digital ledger that stores information in blocks. These blocks are connected using cryptography.
+
+Data stored in a blockchain is difficult to modify, making it secure and transparent.
+
+Example: Bitcoin uses blockchain technology to perform digital currency transactions without requiring a central bank.
+
+4. Types of Blockchains
+
+There are mainly four types of blockchains.
+
+1. Public Blockchain
+- Open to everyone.
+- Anyone can participate in transactions.
+- Highly transparent.
+- Decentralized network.
+Examples: Bitcoin and Ethereum.
+Applications:
+- Cryptocurrency transactions.
+- Decentralized applications.
+- NFT marketplaces.
+
+2. Private Blockchain
+- Controlled by a single organization.
+- Only authorized users can access it.
+- Provides privacy and control.
+- Faster transactions.
+Examples: Hyperledger Fabric and MultiChain.
+Applications:
+- Banking systems.
+- Company record management.
+- Internal business transactions.
+
+3. Consortium Blockchain
+- Managed by multiple organizations.
+- Only selected participants can access it.
+- Provides shared control.
+- Suitable for business networks.
+Examples: R3 Corda and Hyperledger Fabric (when configured for a consortium).
+Applications:
+- Banking networks.
+- Supply chain management.
+- Insurance companies.
+
+4. Hybrid Blockchain
+- Combination of public and private blockchains.
+- Some information is private, while other information is publicly accessible.
+- Provides flexibility and privacy.
+Applications:
+- Healthcare records.
+- Government services.
+- Real estate management.
+
+5. Comparison of Blockchain Types
+
+Feature	Public	Private	Consortium	Hybrid
+Access	Everyone	Authorized users	Selected organizations	Both
+Control	Decentralized	Single organization	Multiple organizations	Mixed
+Transparency	High	Limited	Shared	Partial
+Speed	Depends on network	Generally high	Generally high	Depends on design
+Example	Ethereum	Hyperledger Fabric	R3 Corda	Dragonchain
+
+
+6. Real-Time Use Cases of Blockchain
+
+1. Banking and Finance
+Blockchain enables secure and transparent financial transactions.
+Example: Bitcoin and Ethereum.
+2. Healthcare
+Blockchain helps securely store and share medical records.
+3. Supply Chain Management
+It helps track products from manufacturers to customers.
+
+Example: Tracking food products from farms to supermarkets.
+4. Education
+Blockchain can store educational certificates and verify student credentials.
+5. Voting System
+Blockchain can help create transparent digital voting systems.
+6. Real Estate
+Blockchain can maintain property ownership records and simplify property transactions.
+7. Introduction to MetaMask
+MetaMask is a cryptocurrency wallet that allows users to interact with blockchain networks such as Ethereum.
+
+It is available as a browser extension and mobile application.
+
+Features of MetaMask:
+1. Creates digital wallets.
+2. Stores and manages crypto assets.
+3. Sends and receives cryptocurrency.
+4. Connects with decentralized applications (DApps).
+5. Supports Ethereum and compatible networks.
+6. Allows users to interact with smart contracts.
+Official website: MetaMask
+
+8. Practical Implementation Using MetaMask
+We can perform a simple blockchain transaction using MetaMask and the Sepolia test network.
+
+Step 1: Install MetaMask
+- Open the MetaMask official website.
+- Install the browser extension.
+- Create a new wallet.
+Step 2: Create an Account
+- Set a password.
+- Securely save your Secret Recovery Phrase.
+- Open your wallet.
+Step 3: Enable Test Network
+- Open MetaMask settings.
+- Enable Show test networks.
+- Select Sepolia Test Network.
+Step 4: Get Test ETH
+- Open a Sepolia faucet.
+- Connect or enter your wallet address.
+- Request test ETH.
+Step 5: Perform Transaction
+- Click Send.
+- Enter another wallet address.
+- Enter the test ETH amount.
+- Confirm the transaction.
+Step 6: Verify Transaction
+- Open Sepolia Etherscan.
+- Search using your transaction hash.
+- Check transaction status and details.
+Note: Sepolia ETH is test cryptocurrency and has no real monetary value.
+
+9. Advantages of Blockchain
+1. Decentralization.
+2. High security.
+3. Transparency.
+4. Data immutability.
+5. Reduced intermediaries.
+6. Improved transaction tracking.
+
+10. Disadvantages of Blockchain
+1. Some networks have high transaction fees.
+2. Public networks can have scalability limitations.
+3. Requires technical knowledge.
+4. Transactions may be irreversible.
+5. Private key loss can result in loss of wallet access.
+11. Conclusion
+Thus, we studied different types of blockchain technology, including Public, Private, Consortium and Hybrid blockchains. We also explored their real-time applications in banking, healthcare, education and supply chain management.
+
+We learned about MetaMask, its features and its implementation for performing blockchain transactions using the Sepolia test network.
