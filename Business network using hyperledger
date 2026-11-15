@@ -1,0 +1,31 @@
+
+const { BusinessNetworkConnection } = require('composer-client');
+
+async function createBusinessNetwork() {
+    const businessNetworkConnection =
+        new BusinessNetworkConnection();
+
+    try {
+        await businessNetworkConnection.connect(
+            'admin@business-network'
+        );
+
+        console.log("Business Network Connected Successfully!");
+
+        const businessNetwork =
+            businessNetworkConnection.getBusinessNetwork();
+
+        console.log("Network Name:",
+            businessNetwork.getName());
+
+        console.log("Network Version:",
+            businessNetwork.getVersion());
+
+        await businessNetworkConnection.disconnect();
+
+    } catch (error) {
+        console.log("Error:", error);
+    }
+}
+
+createBusinessNetwork();
